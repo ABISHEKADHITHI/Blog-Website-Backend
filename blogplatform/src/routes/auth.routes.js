@@ -1,4 +1,4 @@
-const router = require("express").Router
+const router = require("express").Router()
 const {register, login} = require("../controllers/auth.controller")
 
 router.post("/register", register)

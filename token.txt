@@ -1,0 +1,84 @@
+{
+  "email": "uvwx@gmail.com",
+  "password": "6666"
+}
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OSwicm9sZSI6InVzZXIiLCJpYXQiOjE3NzE0MDczNjN9.V-25xHKhc9YRSjZieHcOXGAi4LRddAqS4PLQaV7BaFQ
+
+
+
+
+{
+  "title": "uvwx 2",
+  "content": "This is uvwx second post"
+}
+
+-----------------------------------------------------------------------------------------
+
+{
+  "email": "abcd@gmail.com",
+  "password": "1111"
+}
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Miwicm9sZSI6InVzZXIiLCJpYXQiOjE3NzE0MDc3Njd9.ICyvAY9gghCWnYpzq10ta-Npek2chwa1ZtVhsl0HAbk
+
+{
+  "title": "abcd 1",
+  "content": "This is abcd first post"
+}
+
+
+--------------------------------------------------------------------
+
+{
+  "email": "efgh@gmail.com",
+  "password": "2222"
+}
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Mywicm9sZSI6InVzZXIiLCJpYXQiOjE3NzE0MDgwODJ9.1wgVZ7-FdcrsIG84Qq07-pcS5Jp5oSbT3D2UNfL31Zw
+
+{
+  "title": "efgh 1",
+  "content": "This is efgh first post"
+}
+
+---------------------------------------------------------------------
+
+{
+  "email": "ijkl@gmail.com",
+  "password": "3333"
+}
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwicm9sZSI6InVzZXIiLCJpYXQiOjE3NzE0MDgzMjJ9.FUNGuEER9MDiBYoBzs7x6whZ3ADtV2r1mp2_oeqyH2E
+
+{
+  "title": "ijkl 1",
+  "content": "This is ijkl first post"
+}
+
+---------------------------------------------------------------
+
+{
+  "email": "mnop@gmail.com",
+  "password": "4444"
+}
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NSwicm9sZSI6InVzZXIiLCJpYXQiOjE3NzE0MDg1MTN9.rXt4h5uEcs9eqtcC_7d9I-I-oY1foDHGAt8yAUpZcAg
+
+{
+  "title": "mnop 1",
+  "content": "This is mnop first post"
+}
+
+---------------------------------------------------------
+
+admin login 
+
+{
+  "email": "abishek@gmail.com",
+  "password": "123456"
+}
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzcxNDA4OTAwfQ.8mbye0rdv3cnooYmBZ3fCOfmvNz7RAXvBdReRWGc8UU
